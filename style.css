@@ -36,10 +36,12 @@ nav {
   position: fixed;
   left: 0;
   right: 0;
+  z-index: 10;
 }
 nav .mainMenu {
   display: flex;
   list-style: none;
+  z-index: 5;
 }
 nav .mainMenu li a {
   display: inline-block;
