@@ -440,6 +440,10 @@ footer a:hover {
     line-height: 2.5;
   }
 
+  .card {
+    transform: scale(0.5);
+  }
+
   /* UNIQUES CARD */
   .unique-card {
     grid-template-columns: 1fr;
